@@ -22,11 +22,9 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a1ca9a00-9c7f-486e-b70f-306a740b5dea" name="Default Changelist" comment="Some comments to model classes">
+    <list default="true" id="a1ca9a00-9c7f-486e-b70f-306a740b5dea" name="Default Changelist" comment="Clarification comment and additional sound effect">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/TowerRPG.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/TowerRPG.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/ui/TowerRPG.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/ui/TowerRPG.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/ui/menuoptions/SaveProgress.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/ui/menuoptions/SaveProgress.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -464,7 +462,14 @@
       <option name="project" value="LOCAL" />
       <updated>1630376698948</updated>
     </task>
-    <option name="localTasksCounter" value="38" />
+    <task id="LOCAL-00038" summary="Clarification comment and additional sound effect">
+      <created>1630378022126</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1630378022126</updated>
+    </task>
+    <option name="localTasksCounter" value="39" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -525,7 +530,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Fixed code to cover 100% coverage(?). Third try + small adjustments and new tests" />
     <MESSAGE value="Finished almost every app function" />
     <MESSAGE value="Ready for phase 1" />
     <MESSAGE value="Ready for phase 1, minor adjustments" />
@@ -550,7 +554,8 @@
     <MESSAGE value="Uploading project to public Github" />
     <MESSAGE value="Uploading project to public Github ~test~" />
     <MESSAGE value="Some comments to model classes" />
-    <option name="LAST_COMMIT_MESSAGE" value="Some comments to model classes" />
+    <MESSAGE value="Clarification comment and additional sound effect" />
+    <option name="LAST_COMMIT_MESSAGE" value="Clarification comment and additional sound effect" />
   </component>
   <component name="WindowStateProjectService">
     <state x="138" y="60" key="DiffContextDialog" timestamp="1630374038037">
@@ -589,10 +594,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="270" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1630376359667" />
-    <state x="357" y="110" key="Vcs.Push.Dialog.v2" timestamp="1630376702296">
+    <state x="357" y="110" key="Vcs.Push.Dialog.v2" timestamp="1630378026981">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="357" y="110" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1630376702296" />
+    <state x="357" y="110" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1630378026981" />
     <state x="586" y="326" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1630374502673">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
