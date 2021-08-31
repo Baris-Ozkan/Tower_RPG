@@ -4,6 +4,8 @@ import java.util.ArrayList;
 import java.util.List;
 
 // A monster the hero has to fight to clear the level
+
+// ~Scary monster, prepare to face the tip of my sword!
 public class Monster {
     private int health;
     private int attack;

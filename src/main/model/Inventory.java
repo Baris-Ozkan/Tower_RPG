@@ -4,6 +4,8 @@ import java.util.ArrayList;
 import java.util.List;
 
 // List of items a hero holds
+
+// ~Oh yes the inventory everything a hero needs can be found here, hopefully
 public class Inventory {
     private List<Item> heroInventory;
 

@@ -4,6 +4,8 @@ import java.util.ArrayList;
 import java.util.List;
 
 // an Item the hero can put into the inventory to use later to gain stat changes
+
+// ~Gotta collect them all, RNG will be your friend
 public class Item {
 
     String itemName;
