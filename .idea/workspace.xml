@@ -22,7 +22,12 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a1ca9a00-9c7f-486e-b70f-306a740b5dea" name="Default Changelist" comment="Some comments to model classes" />
+    <list default="true" id="a1ca9a00-9c7f-486e-b70f-306a740b5dea" name="Default Changelist" comment="Some comments to model classes">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/TowerRPG.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/TowerRPG.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/ui/TowerRPG.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/ui/TowerRPG.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/ui/menuoptions/SaveProgress.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/ui/menuoptions/SaveProgress.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -452,7 +457,14 @@
       <option name="project" value="LOCAL" />
       <updated>1630376598719</updated>
     </task>
-    <option name="localTasksCounter" value="37" />
+    <task id="LOCAL-00037" summary="Some comments to model classes">
+      <created>1630376698948</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1630376698948</updated>
+    </task>
+    <option name="localTasksCounter" value="38" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -553,22 +565,22 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="636" y="310" key="Github.ShareDialog/0.0.1536.824@0.0.1536.824" timestamp="1630373326008" />
-    <state width="1515" height="218" key="GridCell.Tab.0.bottom" timestamp="1630376460672">
+    <state width="1515" height="218" key="GridCell.Tab.0.bottom" timestamp="1630377964188">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="218" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1630376460672" />
-    <state width="1515" height="218" key="GridCell.Tab.0.center" timestamp="1630376460672">
+    <state width="1515" height="218" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1630377964188" />
+    <state width="1515" height="218" key="GridCell.Tab.0.center" timestamp="1630377964188">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="218" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1630376460672" />
-    <state width="1515" height="218" key="GridCell.Tab.0.left" timestamp="1630376460672">
+    <state width="1515" height="218" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1630377964188" />
+    <state width="1515" height="218" key="GridCell.Tab.0.left" timestamp="1630377964188">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="218" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1630376460672" />
-    <state width="1515" height="218" key="GridCell.Tab.0.right" timestamp="1630376460672">
+    <state width="1515" height="218" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1630377964188" />
+    <state width="1515" height="218" key="GridCell.Tab.0.right" timestamp="1630377964188">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="218" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1630376460672" />
+    <state width="1515" height="218" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1630377964188" />
     <state x="472" y="172" width="661" height="480" key="NewModule_or_Project.wizard" timestamp="1630376354866">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -577,10 +589,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="270" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1630376359667" />
-    <state x="492" y="121" key="Vcs.Push.Dialog.v2" timestamp="1630376455212">
+    <state x="357" y="110" key="Vcs.Push.Dialog.v2" timestamp="1630376702296">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="492" y="121" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1630376455212" />
+    <state x="357" y="110" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1630376702296" />
     <state x="586" y="326" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1630374502673">
       <screen x="0" y="0" width="1536" height="824" />
     </state>

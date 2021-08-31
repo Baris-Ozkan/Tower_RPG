@@ -68,7 +68,7 @@ public class TowerRPG extends JFrame {
         startMenu();
         initiateStarterItems();
 
-        initializeGUI();
+        initializeGUI();                  // Comment out to play text-based only, stable with full features
 
         command = input.next();
         if (command.equals("N")) {
@@ -293,7 +293,7 @@ public class TowerRPG extends JFrame {
     private void combatMenu() {
         String s;
 
-        System.out.println("\nAre you ready to fight the monsters of this floor?");
+        System.out.println("\nAre you ready to fight the monsters of this floor? (Type 1, 2 or 3)");
         System.out.println("\tYes - Y " + "\tNo - N");
 
         s = input.next();

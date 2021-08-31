@@ -2,12 +2,15 @@ package ui.menuoptions;
 
 import ui.MenuOption;
 import ui.TowerRPG;
+import ui.sound.Sound;
 
 import javax.swing.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 
 public class SaveProgress extends MenuOption implements ActionListener {
+
+    Sound musicObj;
 
     public SaveProgress(TowerRPG game, JComponent parent) {
         super(game, parent);
@@ -40,8 +43,12 @@ public class SaveProgress extends MenuOption implements ActionListener {
      */
     @Override
     public void actionPerformed(ActionEvent e) {
+        String filepath = "./data/showStatus.wav";
+        musicObj = new Sound(filepath);
+
         game.saveProgress();
 
+        musicObj.playSound();
         JOptionPane.showMessageDialog(null, "\nProgress Saved");
     }
 }
