@@ -1,0 +1,624 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:Wolfenshroud" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:Wolfenshroud" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:Wolfenshroud/main" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a1ca9a00-9c7f-486e-b70f-306a740b5dea" name="Default Changelist" comment="Uploading project to public Github ~test~">
+      <change beforePath="$PROJECT_DIR$/src/main/model/Hero.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/model/Hero.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageOptionsProvider">
+    <option name="myAddOrReplace" value="1" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <excluded-from-favorite>
+      <branch-storage>
+        <map>
+          <entry type="LOCAL">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="master" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </excluded-from-favorite>
+    <favorite-branches>
+      <branch-storage>
+        <map>
+          <entry type="LOCAL">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="main" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </favorite-branches>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="HARD" />
+  </component>
+  <component name="ProjectId" id="1iekGV0wccCWlw7qIZxPJkTsPdP" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/test/sound" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ozkan\Desktop\CodeFolders\CPSC210\project_l3w2b" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="ui.MenuOptions" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="model" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ui.Main" />
+      <module name="project_l3w2b" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ui.menuoptions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HeroTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Tower RPG" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="model.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="model" />
+      <option name="MAIN_CLASS_NAME" value="model.HeroTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HeroTest.testUseIllegalItem" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Tower RPG" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="model.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="model" />
+      <option name="MAIN_CLASS_NAME" value="model.HeroTest" />
+      <option name="METHOD_NAME" value="testUseIllegalItem" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SoundTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Tower RPG" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sound.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="sound" />
+      <option name="MAIN_CLASS_NAME" value="sound.SoundTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SoundTest.testSound" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Tower RPG" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sound.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="sound" />
+      <option name="MAIN_CLASS_NAME" value="sound.SoundTest" />
+      <option name="METHOD_NAME" value="testSound" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="JUnit.HeroTest" />
+      <item itemvalue="JUnit.HeroTest.testUseIllegalItem" />
+      <item itemvalue="JUnit.SoundTest" />
+      <item itemvalue="JUnit.SoundTest.testSound" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="JUnit.SoundTest" />
+        <item itemvalue="JUnit.SoundTest.testSound" />
+        <item itemvalue="JUnit.HeroTest" />
+        <item itemvalue="JUnit.HeroTest.testUseIllegalItem" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a1ca9a00-9c7f-486e-b70f-306a740b5dea" name="Default Changelist" comment="" />
+      <created>1602275349646</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602275349646</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Progress made before Injury: Done work until Task4">
+      <created>1602683433192</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1602683433192</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Progress made before Injury: Done work until Task4">
+      <created>1602878822031</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1602878822031</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Finalized Hero Class and HeroTest">
+      <created>1602878941080</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1602878941080</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Worked on all the classes. Tested and Implemented all current classes">
+      <created>1602890416708</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1602890416708</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Fixed code to cover 100% coverage(?)">
+      <created>1602891035556</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1602891035556</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Fixed code to cover 100% coverage(?). Second try + minor adjustments in documentation">
+      <created>1602891858406</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1602891858406</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Fixed code to cover 100% coverage(?). Third try + small adjustments and new tests">
+      <created>1602892930237</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1602892930237</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Finished almost every app function">
+      <created>1603049542131</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1603049542131</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Ready for phase 1">
+      <created>1603050984915</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1603050984915</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Ready for phase 1, minor adjustments">
+      <created>1603051385746</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1603051385746</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Completed most of the core gameplay features to make the project ready for phase 2 features">
+      <created>1604950112649</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1604950112649</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Latest">
+      <created>1605225111686</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1605225111686</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Added jsonreader and writer for hero info">
+      <created>1605588104047</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1605588104047</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Latest1">
+      <created>1605648723311</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1605648723311</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Latest1.1">
+      <created>1605649370511</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1605649370511</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Finished implementation of phase 2">
+      <created>1605654611449</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1605654611449</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Final version before phase 3 submission">
+      <created>1605746089295</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1605746089295</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Added GUI support for saving and loading progress along with general menu buttons">
+      <created>1605754789356</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1605754789356</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Latest 2">
+      <created>1605756135158</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1605756135158</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Added GUI support for displaying Xs that have been added to Y without Audio-Visual support">
+      <created>1605835498677</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1605835498677</updated>
+    </task>
+    <task id="LOCAL-00021" summary="Added GUI support for displaying Xs that have been added to Y without Audio-Visual support. Trying Again">
+      <created>1605835735648</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1605835735648</updated>
+    </task>
+    <task id="LOCAL-00022" summary="Trying to get 100% code coverage">
+      <created>1605836322370</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1605836322370</updated>
+    </task>
+    <task id="LOCAL-00023" summary="Added audio-visual support: Music for the game and button sound effects">
+      <created>1605911524767</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1605911524767</updated>
+    </task>
+    <task id="LOCAL-00024" summary="Added SoundTest class for code coverage">
+      <created>1605912447318</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1605912447318</updated>
+    </task>
+    <task id="LOCAL-00025" summary="Moved Sound package into ui">
+      <created>1605913671349</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1605913671349</updated>
+    </task>
+    <task id="LOCAL-00026" summary="Added GUI support for taking a tower item and adding it to hero's inventory (adding Xs to Y)">
+      <created>1605917321250</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1605917321250</updated>
+    </task>
+    <task id="LOCAL-00027" summary="Phase 4: Task 2">
+      <created>1606327085295</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1606327085295</updated>
+    </task>
+    <task id="LOCAL-00028" summary="Phase 4: Task 3">
+      <created>1606355705209</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1606355705209</updated>
+    </task>
+    <task id="LOCAL-00029" summary="Uploading project to public Github">
+      <created>1630374024035</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1630374024035</updated>
+    </task>
+    <task id="LOCAL-00030" summary="Uploading project to public Github">
+      <created>1630374188863</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1630374188863</updated>
+    </task>
+    <task id="LOCAL-00031" summary="Uploading project to public Github ~test~">
+      <created>1630374536079</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1630374536079</updated>
+    </task>
+    <task id="LOCAL-00032" summary="Uploading project to public Github ~test~">
+      <created>1630375125787</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1630375125787</updated>
+    </task>
+    <task id="LOCAL-00033" summary="Uploading project to public Github ~test~">
+      <created>1630375245997</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1630375245997</updated>
+    </task>
+    <task id="LOCAL-00034" summary="Uploading project to public Github ~test~">
+      <created>1630375509414</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1630375509414</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="1">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="Wolfenshroud/main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="Wolfenshroud/main" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Fixed code to cover 100% coverage(?). Second try + minor adjustments in documentation" />
+    <MESSAGE value="Fixed code to cover 100% coverage(?). Third try + small adjustments and new tests" />
+    <MESSAGE value="Finished almost every app function" />
+    <MESSAGE value="Ready for phase 1" />
+    <MESSAGE value="Ready for phase 1, minor adjustments" />
+    <MESSAGE value="Completed most of the core gameplay features to make the project ready for phase 2 features" />
+    <MESSAGE value="Latest" />
+    <MESSAGE value="Added jsonreader and writer for hero info" />
+    <MESSAGE value="Latest1" />
+    <MESSAGE value="Latest1.1" />
+    <MESSAGE value="Finished implementation of phase 2" />
+    <MESSAGE value="Final version before phase 3 submission" />
+    <MESSAGE value="Added GUI support for saving and loading progress along with general menu buttons" />
+    <MESSAGE value="Latest 2" />
+    <MESSAGE value="Added GUI support for displaying Xs that have been added to Y without Audio-Visual support" />
+    <MESSAGE value="Added GUI support for displaying Xs that have been added to Y without Audio-Visual support. Trying Again" />
+    <MESSAGE value="Trying to get 100% code coverage" />
+    <MESSAGE value="Added audio-visual support: Music for the game and button sound effects" />
+    <MESSAGE value="Added SoundTest class for code coverage" />
+    <MESSAGE value="Moved Sound package into ui" />
+    <MESSAGE value="Added GUI support for taking a tower item and adding it to hero's inventory (adding Xs to Y)" />
+    <MESSAGE value="Phase 4: Task 2" />
+    <MESSAGE value="Phase 4: Task 3" />
+    <MESSAGE value="Uploading project to public Github" />
+    <MESSAGE value="Uploading project to public Github ~test~" />
+    <option name="LAST_COMMIT_MESSAGE" value="Uploading project to public Github ~test~" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="138" y="60" key="DiffContextDialog" timestamp="1630374038037">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="138" y="60" key="DiffContextDialog/0.0.1536.824@0.0.1536.824" timestamp="1630374038037" />
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1630376339238">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1630376339238" />
+    <state x="636" y="310" key="Github.ShareDialog" timestamp="1630373326008">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="636" y="310" key="Github.ShareDialog/0.0.1536.824@0.0.1536.824" timestamp="1630373326008" />
+    <state width="1515" height="218" key="GridCell.Tab.0.bottom" timestamp="1630376156151">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="218" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1630376156151" />
+    <state width="1515" height="218" key="GridCell.Tab.0.center" timestamp="1630376156151">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="218" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1630376156151" />
+    <state width="1515" height="218" key="GridCell.Tab.0.left" timestamp="1630376156151">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="218" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1630376156151" />
+    <state width="1515" height="218" key="GridCell.Tab.0.right" timestamp="1630376156151">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="218" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1630376156151" />
+    <state x="472" y="172" width="661" height="480" key="NewModule_or_Project.wizard" timestamp="1630376354866">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="472" y="172" width="661" height="480" key="NewModule_or_Project.wizard/0.0.1536.824@0.0.1536.824" timestamp="1630376354866" />
+    <state x="270" y="0" key="SettingsEditor" timestamp="1630376359667">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="270" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1630376359667" />
+    <state x="330" y="114" key="Vcs.Push.Dialog.v2" timestamp="1630376280064">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="330" y="114" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1630376280064" />
+    <state x="586" y="326" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1630374502673">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="586" y="326" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824@0.0.1536.824" timestamp="1630374502673" />
+    <state x="490" y="313" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1630375497501">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="490" y="313" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1536.824@0.0.1536.824" timestamp="1630375497501" />
+    <state x="429" y="32" key="new project wizard" timestamp="1622206439738">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="429" y="32" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1622206439738" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.StackOverflowError" package="java.lang" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Project_Starter$JsonWriterTest.ic" NAME="JsonWriterTest Coverage Results" MODIFIED="1605588221246" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>persistence.*</FILTER>
+      <FILTER>model.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Project_Starter$JsonTest.ic" NAME="JsonTest Coverage Results" MODIFIED="1605654581226" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>persistence.*</FILTER>
+      <FILTER>model.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Project_Starter$MonsterListTest.ic" NAME="MonsterListTest Coverage Results" MODIFIED="1605212142693" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>model.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Project_Starter$InventoryTest.ic" NAME="InventoryTest Coverage Results" MODIFIED="1605212108577" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>model.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Project_Starter$HeroTest.ic" NAME="HeroTest Coverage Results" MODIFIED="1605588018097" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>model.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Project_Starter$MonsterTest.ic" NAME="MonsterTest Coverage Results" MODIFIED="1605212156492" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>model.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Project_Starter$FloorTest.ic" NAME="FloorTest Coverage Results" MODIFIED="1605587984907" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>model.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Project_Starter$ItemTest.ic" NAME="ItemTest Coverage Results" MODIFIED="1605212131507" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>model.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Project_Starter$HeroTest_and_3_more.ic" NAME="HeroTest and 3 more Coverage Results" MODIFIED="1602891952500" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>

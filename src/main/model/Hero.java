@@ -8,6 +8,7 @@ import java.util.ArrayList;
 
 //A character that can be created by the user to play the Tower RPG
 
+// ~Welcome hero, this is where your journey will start
 public class Hero extends Inventory implements Writable {
     private int health;
     private int attack;
