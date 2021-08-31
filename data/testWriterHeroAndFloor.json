@@ -1,0 +1,35 @@
+{
+    "Hero": {
+        "Hero Inventory": [
+            [
+                "Sword of Zondar",
+                "Weapon",
+                "5"
+            ],
+            [
+                "Cloak of Einar",
+                "Armor",
+                "8"
+            ]
+        ],
+        "Hero Stats": {
+            "Experience": 0,
+            "Health": 7,
+            "Level": 1,
+            "Attack": 7,
+            "Defense": 6,
+            "LevelUpExperience": -2
+        }
+    },
+    "Hero Progress": {
+        "Floor Inventory": [[
+            "Sword of Zondar",
+            "Weapon",
+            "5"
+        ]],
+        "Floor Data": {
+            "Floor Number": 2,
+            "Floor Difficulty Modifier": 1
+        }
+    }
+}

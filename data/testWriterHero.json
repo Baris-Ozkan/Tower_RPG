@@ -1,0 +1,20 @@
+{
+    "Hero": {
+        "Hero Inventory": [],
+        "Hero Stats": {
+            "Experience": 0,
+            "Health": 6,
+            "Level": 1,
+            "Attack": 6,
+            "Defense": 6,
+            "LevelUpExperience": 0
+        }
+    },
+    "Hero Progress": {
+        "Floor Inventory": [],
+        "Floor Data": {
+            "Floor Number": 1,
+            "Floor Difficulty Modifier": 0
+        }
+    }
+}
